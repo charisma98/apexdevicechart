@@ -1,11 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
-import ApexChart from "./ApexChart";
+import ApexChart1 from "./ApexChart1";
+import ApexChart2 from "./ApexChart2";
 
 function App() {
   return (
     <div className="App">
-      <ApexChart />
+      <ApexChart1 />
+      <ApexChart2 />
     </div>
   );
 }
